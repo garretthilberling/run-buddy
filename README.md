@@ -12,3 +12,5 @@ https://garretthilberling.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Garrett Hilberling
+
+### ©️2019 Run Buddy, Inc 
